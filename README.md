@@ -1,4 +1,8 @@
-# \<wc-palette>
+# Command Palette
+
+A webcomponent providing a nice and user-friendly command palette that you can use on your
+website. It supports weighted ranking using a custom made algorithm so the most used commands
+are always on top.
 
 This webcomponent follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
@@ -16,6 +20,19 @@ npm i wc-palette
 </script>
 
 <wc-palette></wc-palette>
+```
+
+## Styling
+
+You can easily style the command palette using CSS properties and CSS parts:
+
+```html
+<style>
+  wc-palette {
+    --background-color: "#7893247",
+    --color: 
+  }
+</style>
 ```
 
 ## Linting and formatting
