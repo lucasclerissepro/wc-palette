@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/bin/node /usr/bin/yarn add @types/minireset.css
+  /usr/bin/node /usr/bin/yarn add hotkey-js
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/lucas/.krew/bin:/home/lucas/.local/share/gem/ruby/3.0.0/bin:/home/lucas/.krew/bin:/home/lucas/.local/share/gem/ruby/3.0.0/bin
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@types%2fminireset.css: Not found
+  Error: https://registry.yarnpkg.com/hotkey-js: Not found
       at Request.params.callback [as _callback] (/usr/lib/node_modules/yarn/lib/cli.js:67029:18)
       at Request.self.callback (/usr/lib/node_modules/yarn/lib/cli.js:140883:22)
       at Request.emit (node:events:390:28)
@@ -4745,7 +4745,7 @@ Lockfile:
   
   minireset.css@^0.0.7:
     version "0.0.7"
-    resolved "https://registry.npmjs.org/minireset.css/-/minireset.css-0.0.7.tgz"
+    resolved "https://registry.yarnpkg.com/minireset.css/-/minireset.css-0.0.7.tgz#7f0750051b14628a4e4df2227547fc9a13a7ea12"
     integrity sha512-raWKK2aHP/MI4Yu72dU6hade1YFuoyDQtSUi/FiIZfeRHjgL81uN/nFvG2aoAr+mseRc3jpg47jQqx1/+6w+kQ==
   
   mkdirp-classic@^0.5.2:

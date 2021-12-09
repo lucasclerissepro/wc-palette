@@ -23,6 +23,7 @@
     "storybook:build": "tsc && npm run analyze -- --exclude dist && build-storybook"
   },
   "dependencies": {
+    "fuse.js": "^6.4.6",
     "lit": "^2.0.2",
     "minireset.css": "^0.0.7"
   },

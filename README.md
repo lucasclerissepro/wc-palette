@@ -4,7 +4,7 @@ A webcomponent providing a nice and user-friendly command palette that you can u
 website. It supports weighted ranking using a custom made algorithm so the most used commands
 are always on top.
 
-This webcomponent follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
+This webcomponent is heavily used in [Open Kubernetes Platform](https://github.com/open-kubernetes-platform/okp) and follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
 ## Installation
 
